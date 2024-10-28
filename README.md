@@ -36,3 +36,9 @@ Note: To deactivate the virtual environment when you're done, simply type:
 ```bash
 deactivate
 ```
+
+## Install command
+
+```bash
+pip install -r requirements. txt
+```
